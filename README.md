@@ -55,10 +55,10 @@ These differences are documented in the project, and results from different repo
 
 ## Project progress
 
-* ✅ Excel data cleaning and validation
-* ✅ PostgreSQL import, quality checks and analysis
-* 🔄 Power BI data model and dashboard
-* ⬜ Executive summary and final recommendations
+* ✅ Excel data cleaning and validation - Completed
+* ✅ PostgreSQL import, quality checks and analysis - Completed
+* 🔄 Power BI data model and dashboard -In Progress
+* ⬜ Executive summary and final recommendations - In Progress
 
 ## Planned repository structure
 
